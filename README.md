@@ -26,4 +26,13 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](singhparul.1204@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parul-singh-5207b9228/)
 
+
+# ⏱ Streak Stats 🔝
+
 [![Parul's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithParul&theme=blue-green)](https://github.com/CodeWithParul/github-readme-stats)
+
+
+[![Parul's github streak](https://github-readme-streak-stats.herokuapp.com/?user=CodeWithParul&theme=blue-green)](https://github.com/CodeWithParul/github-readme-streak-stats)
+
+
+[![Parul's Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeWithParul&theme=vue)](https://github.com/CodeWithParul/github-profile-summary-cards)
